@@ -1,0 +1,5 @@
+    - Flask
+    - Pandas
+    - NumPy
+    - Matplotlib
+    - Seaborn (*Optional, uncomment if used)
